@@ -28,7 +28,7 @@ NombreEstado varchar(100)
 
 create table Tablero
 (
-IDTablero int primary key,
+IDTablero int primary key identity,
 IDUsuario int,
 CodigoARS varchar(10),
 LinkSharepoint varchar(400),
@@ -38,7 +38,7 @@ FechaCreacion datetime
 
 create table Tarea
 (
-IDTarea int primary key,
+IDTarea int primary key identity,
 IDTablero int,
 IDEstado int,
 IDUsuario int, --Usuario que crea la tarea
@@ -125,4 +125,12 @@ REFERENCES Tarea (IDTarea)
 ALTER TABLE LogActividad ADD CONSTRAINT FK_LogActividad_IDComentario
 FOREIGN KEY (IDComentario) 
 REFERENCES Comentario (IDComentario) 
+
+
+
+insert into Autenticacion (IDAccenture, Vigencia)
+values
+('andres.plaza.chirino',1),
+('s.alvarez',1),
+('miguel.pastenes',1)
 

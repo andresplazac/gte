@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Canvas.master.cs" Inherits="FuenteGTE.Canvas" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta charset="utf-8">
+    <title>Trollo</title>
+    <link href="Scripts/jquery-ui/jquery-ui.css" rel="stylesheet" type="text/css"/>
+    <script src="Scripts/jquery.js" type="text/javascript" ></script>
+    <script src="Scripts/jquery-ui/jquery-ui.js" type="text/javascript" ></script>
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+        
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="cabecera">
+        <table width="100%" border="0">
+          <tr>
+            <td width="35%">  <img src="images/tableros.png" alt="" width="129" height="45"></td>
+            <td width="27%"><div align="center"><img src="images/logo.png" alt="" width="129" height="50"></div></td>
+            <td width="38%"><div align="center"><img src="images/accenture.png" alt="" width="120" height="54"></div></td>
+          </tr>
+        </table>
+    </div>
+    <form id="Form2" runat="server">
+    <div class="page">
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

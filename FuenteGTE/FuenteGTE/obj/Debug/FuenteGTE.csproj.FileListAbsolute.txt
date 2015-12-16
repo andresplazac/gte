@@ -1,0 +1,18 @@
+c:\users\andres.plaza.chirino\documents\visual studio 2010\Projects\FuenteGTE\FuenteGTE\bin\FuenteGTE.dll
+c:\users\andres.plaza.chirino\documents\visual studio 2010\Projects\FuenteGTE\FuenteGTE\bin\FuenteGTE.pdb
+c:\users\andres.plaza.chirino\documents\visual studio 2010\Projects\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.dll
+c:\users\andres.plaza.chirino\documents\visual studio 2010\Projects\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.pdb
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.csprojResolveAssemblyReference.cache
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\FuenteGTE\bin\Entidades.dll
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\FuenteGTE\bin\Negocio.dll
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\FuenteGTE\bin\Entidades.pdb
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\FuenteGTE\bin\Negocio.pdb
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\FuenteGTE.dll
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\FuenteGTE.pdb
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\Entidades.dll
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\Negocio.dll
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\Entidades.pdb
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\bin\Negocio.pdb
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.csprojResolveAssemblyReference.cache
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.dll
+C:\Users\andres.plaza.chirino\Desktop\GTE\repo\FuenteGTE\FuenteGTE\obj\Debug\FuenteGTE.pdb

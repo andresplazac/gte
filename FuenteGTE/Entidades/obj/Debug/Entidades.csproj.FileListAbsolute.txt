@@ -1,0 +1,4 @@
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\Entidades\bin\Debug\Entidades.dll
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\Entidades\bin\Debug\Entidades.pdb
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\Entidades\obj\Debug\Entidades.dll
+c:\Users\andres.plaza.chirino\Documents\Visual Studio 2010\Projects\FuenteGTE\Entidades\obj\Debug\Entidades.pdb
